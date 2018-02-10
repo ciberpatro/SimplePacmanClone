@@ -7,5 +7,5 @@ Linux:
 
 # Controls
 Use the keyboard arrows to move the player
-# Screenshot
-![screenshot](/githubAssets/screenshot.png)
+# Video
+![video](/githubAssets/gameplay.gif)
